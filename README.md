@@ -1,4 +1,4 @@
 # react727
 morning (created)
-this is...
-today..
+this is. ..
+today  ..
